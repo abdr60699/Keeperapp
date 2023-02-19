@@ -1,4 +1,4 @@
 [build]
-  base = "using-pre-built-react-components-completed"
+  base = "MY-APP"
 	command = "CI= npm run build"
 	publish = "build"
