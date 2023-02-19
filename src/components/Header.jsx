@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        Kepeer
+        Kepeeer
       </h1>
     </header>
   );
