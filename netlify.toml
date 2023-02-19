@@ -1,4 +1,4 @@
 [build]
-  base = "Keeperapp"
+  base = "src"
 	command = "CI= npm run build"
 	publish = "build"
