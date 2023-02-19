@@ -1,4 +1,4 @@
 [build]
-  base = "src"
+  base = "all"
 	command = "CI= npm run build"
 	publish = "build"
